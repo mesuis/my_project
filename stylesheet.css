@@ -1,0 +1,12 @@
+.Article h1 {
+  font-size: 30px;
+}
+.Article p {
+  color: red;
+}
+.Article-body {
+  color: darkblue;
+}
+.Article h2 {
+  color: red;
+}
